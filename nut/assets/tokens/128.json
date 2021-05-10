@@ -45,6 +45,14 @@
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/nutmoneydefi/assets/main/blockchains/ethereum/assets/0xcecc272583c4ea6167f832cf14e9522c605dd631/logo.png"
       }
+	 ,{
+      "name": "WHT",
+      "address": "0x105e11915b80dd8aa59ac3d58f10303c75606d46",
+      "symbol": "NUT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/nutmoneydefi/assets/main/blockchains/ethereum/assets/0x105e11915b80dd8aa59ac3d58f10303c75606d46/logo.png"
+    },
    
   ]
 }
